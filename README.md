@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+![Carrito_de_compras](https://user-images.githubusercontent.com/113075791/202601894-585db5ae-d792-40be-b1ed-ed518160fe81.gif)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
