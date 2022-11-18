@@ -4,8 +4,8 @@ import 'package:get/get.dart';
 import '../../domain/controller/controlcarrito.dart';
 //import 'package:navegacion_2290/ui/pages/widget.dart';
 
-class Login extends StatelessWidget {
-  const Login({super.key});
+class Principal extends StatelessWidget {
+  const Principal({super.key});
 
   
 
