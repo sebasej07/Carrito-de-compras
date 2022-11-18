@@ -1,10 +1,14 @@
 # carrito_01
 
-A new Flutter project.
+Este es el proyecto correspondiente al reto 2 del ciclo 4-b, grupo 7
+se trata de una aplicacion de carrito de compras el cual funciona de la siguiente manera:
 
 ![Carrito_de_compras](https://user-images.githubusercontent.com/113075791/202601894-585db5ae-d792-40be-b1ed-ed518160fe81.gif)
 
 
+Este proyecto esta almacenado en el repositorio de Github que dejo en el link a contnuacion:
+https://github.com/sebasej07/Carrito-de-compras.git
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
